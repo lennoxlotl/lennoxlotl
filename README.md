@@ -17,3 +17,6 @@ Git<br>
 ## Metrics
 
 ![Metrics](https://metrics.lecoq.io/officialLennox)
+
+## Contact
+You can contact me on Discord: Lennox#1337

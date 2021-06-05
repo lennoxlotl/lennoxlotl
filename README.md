@@ -14,4 +14,6 @@ MySQL<br>
 OpenGL<br>
 Git<br>
 
+## Metrics
+
 ![Metrics](https://metrics.lecoq.io/officialLennox)

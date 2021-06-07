@@ -3,6 +3,7 @@
 ## Languages I know
 Java<br>
 Kotlin<br>
+Rust<br>
 GoLang<br>
 C#<br>
 HTML / CSS / JS (Web Development)<br>

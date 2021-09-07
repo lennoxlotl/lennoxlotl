@@ -7,6 +7,7 @@ Rust<br>
 GoLang<br>
 C#<br>
 HTML / CSS / JS (Web Development)<br>
+Svelte (Web Framework with own language additions)<br>
 
 ## Tools I use
 Gradle<br>
@@ -16,6 +17,7 @@ OpenGL<br>
 Git<br>
 ASM<br>
 Spring Framework<br>
+tauri<br>
 
 ## Metrics
 

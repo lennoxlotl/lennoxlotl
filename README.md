@@ -35,6 +35,12 @@
 - BungeeCord
 - ProtocolLib
 
+## Current Projects
+- Shinybounds, a 1.8.8 Minecraft Server
+- Moon, a more or less legal minecraft modification (pretty inactive)
+- Borderline, 🥸 soonTM
+- Some private stuff... you know how it is :^)
+
 ## Metrics
 
 ![Metrics](https://metrics.lecoq.io/officialLennox)

@@ -3,7 +3,7 @@
 ## Infos
 - Age: 16
 - Location: Germany
-- Programming since ~6 years (java applets ftw lmao)
+- Programming since ~6 years
 - Favorite Languages: Rust, Kotlin, Java
 - Favorite Frameworks: Vue, Redis, Tauri, MongoDB
 

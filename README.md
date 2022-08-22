@@ -37,6 +37,7 @@
 
 ## Current Projects
 - Shinybounds, a 1.8.8 Minecraft Server
+- AntiAC, a 1.8.8 Training Server
 - Intave, a minecraft anti-cheat solution
 - Moon, a more or less legal minecraft modification (pretty inactive)
 - Borderline, 🥸 soonTM

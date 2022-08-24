@@ -1,7 +1,7 @@
 # Hi there, im Lennox
 
 ## Infos
-- Age: 16
+- Age: 17
 - Location: Germany
 - Programming since ~6 years
 - Favorite Languages: Rust, Kotlin, Java

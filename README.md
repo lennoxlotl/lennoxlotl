@@ -45,7 +45,7 @@
 
 ## Metrics
 
-![Metrics](https://metrics.lecoq.io/officialLennox)
+![Metrics](https://github-readme-stats.vercel.app/api?username=officialLennox&show_icons=true&theme=dark)
 
 ## Contact
 You can contact me on Discord: lennox#1337 if you need anything :)

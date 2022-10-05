@@ -11,11 +11,8 @@
 - Java
 - Kotlin
 - Rust
-- GoLang
 - C#
 - HTML / CSS / JS
-- C (not really)
-- C++ (basics, not really though)
 
 ## Tools / Frameworks I use
 - Gradle

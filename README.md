@@ -6,6 +6,7 @@
 - Programming since ~6 years
 - Favorite Languages: Rust, Kotlin, Java
 - Favorite Frameworks: Vue, Redis, Tauri, MongoDB
+- Working at @playlegend
 
 ## Languages I know
 - Java

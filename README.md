@@ -5,7 +5,7 @@
 - Location: Germany
 - Programming since ~6 years
 - Favorite Languages: Rust, Kotlin, Java
-- Favorite Frameworks: Vue, Redis, Tauri, MongoDB
+- Favorite Frameworks / Tools: Svelte, Tauri
 - Working at @playlegend
 
 ## Languages I know

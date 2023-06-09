@@ -5,7 +5,7 @@
 - Location: Germany
 - Programming since ~6 years
 - Favorite Languages: Rust, Kotlin, Java
-- Favorite Frameworks / Tools: Svelte, Tauri
+- Favorite Frameworks / Tools: Svelte, Tauri, Gradle, Spring and many many more
 - Working at @playlegend
 
 ## Languages I know
@@ -38,4 +38,4 @@
 ![Metrics](https://github-readme-stats.vercel.app/api?username=officialLennox&show_icons=true&theme=dark)
 
 ## Contact
-You can contact me on Discord: lennox#1337 if you need anything :)
+You can contact me on Discord through the username `lennoxlotl` in-case you need anything

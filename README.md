@@ -38,4 +38,4 @@
 ![Metrics](https://github-readme-stats.vercel.app/api?username=lennoxlotl&show_icons=true&theme=dark)
 
 ## Contact
-You can contact me on Discord through the username `lennoxlotl` in-case you need anything
+You can contact me on Discord through `lennoxlotl` or through `admin@lennoxlotl.dev` (mail) for inquiries etc.

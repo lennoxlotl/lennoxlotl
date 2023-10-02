@@ -1,7 +1,7 @@
 # Hi there, im Lennox
 
 ## Infos
-- Age: 17
+- Age: 18
 - Location: Germany
 - Programming since ~6 years
 - Favorite Languages: Rust, Kotlin, Java
@@ -35,7 +35,7 @@
 
 ## Metrics
 
-![Metrics](https://github-readme-stats.vercel.app/api?username=officialLennox&show_icons=true&theme=dark)
+![Metrics](https://github-readme-stats.vercel.app/api?username=lennoxlotl&show_icons=true&theme=dark)
 
 ## Contact
 You can contact me on Discord through the username `lennoxlotl` in-case you need anything

@@ -35,7 +35,7 @@
 
 ## Metrics
 
-![Metrics](https://github-readme-stats.vercel.app/api?username=lennoxlotl&show_icons=true&theme=dark)
+![Metrics](https://github-readme-stats.vercel.app/api?username=lennoxlotl&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
 
 ## Contact
 You can contact me on Discord through `lennoxlotl` or through `admin@lennoxlotl.dev` (mail) for inquiries etc.

@@ -3,7 +3,7 @@
 ## Infos
 - Age: 18
 - Location: Germany
-- Programming since ~6 years
+- Programming since ~7 years
 - Favorite Languages: Rust, Kotlin, Java
 - Favorite Frameworks / Tools: Svelte, Tauri, Gradle, Spring and many many more
 - Working at @playlegend

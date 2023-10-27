@@ -1,41 +1,7 @@
-# Hi there, im Lennox
+# :wave: Hi there
 
-## Infos
-- Age: 18
-- Location: Germany
-- Programming since ~7 years
-- Favorite Languages: Rust, Kotlin, Java
-- Favorite Frameworks / Tools: Svelte, Tauri, Gradle, Spring and many many more
-- Working at @playlegend
-
-## Languages I know
-- Java
-- Kotlin
-- Rust
-- C#
-- HTML / CSS / JS
-
-## Tools / Frameworks I use
-- Gradle
-- Vue
-- Svelte
-- MongoDB
-- MySQL
-- OpenGL
-- Git
-- ASM
-- Netty
-- Spring Framework
-- Tauri
-- Redis
-- Spigot 
-- Velocity
-- BungeeCord
-- ProtocolLib
+For more information about me please visit https://lennoxlotl.dev :)
 
 ## Metrics
 
 ![Metrics](https://github-readme-stats.vercel.app/api?username=lennoxlotl&show_icons=true&theme=dark)
-
-## Contact
-You can contact me on Discord through `lennoxlotl` or through `admin@lennoxlotl.dev` (mail) for inquiries etc.
